@@ -17,7 +17,7 @@ public class DocumentUploader
 
 	public static void main(String[] args)
 	{
-		String documentName = "SASMacros.txt";
+		String documentName = "Tableau.txt";
 		String fullPath = "C:/Solr/documents";
 		
 		//begin-get all the file names in the folder
